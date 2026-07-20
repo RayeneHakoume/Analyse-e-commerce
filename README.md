@@ -1,5 +1,5 @@
-# Analyse-e-commerce
-Analyse de ventes pour un e-commerce
+# Etude de santé publique
+Etude de santé publique
 Voici une proposition de structure complète pour le fichier **README.md** de ton projet. Ce document est conçu pour être à la fois professionnel, clair et structuré, idéal pour documenter ton travail (par exemple pour un projet OpenClassrooms/FAO).
 
 ---
